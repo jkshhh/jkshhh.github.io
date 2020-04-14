@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jkshhh.GitHub.io</id>
     <title>Floret</title>
-    <updated>2020-04-14T08:01:42.118Z</updated>
+    <updated>2020-04-14T08:10:41.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jkshhh.GitHub.io"/>
     <link rel="self" href="https://jkshhh.GitHub.io/atom.xml"/>
@@ -10,6 +10,45 @@
     <logo>https://jkshhh.GitHub.io/images/avatar.png</logo>
     <icon>https://jkshhh.GitHub.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Floret</rights>
+    <entry>
+        <title type="html"><![CDATA[MAKEDOWN 学习]]></title>
+        <id>https://jkshhh.GitHub.io/post/makedown-xue-xi/</id>
+        <link href="https://jkshhh.GitHub.io/post/makedown-xue-xi/">
+        </link>
+        <updated>2020-04-14T08:02:39.000Z</updated>
+        <content type="html"><![CDATA[<p>标题：</p>
+<p>#HELLO WORLD!<br>
+##HELLO WORLD!<br>
+###HELLO WORLD!</p>
+<p>换行：<br>
+1<br>
+2</p>
+<p>3</p>
+<p>字体：<br>
+<em>斜体文本</em><br>
+<em>斜体文本</em><br>
+<strong>粗体文本</strong><br>
+<strong>粗体文本</strong><br>
+<em><strong>粗斜体文本</strong></em><br>
+<em><strong>粗斜体文本</strong></em></p>
+<p>分割线：</p>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<p>删除线：<s>BAIDU.COM</s></p>
+<p>下划线：<u>带下划线文本</u></p>
+<p>脚注：创建脚注格式类似这样 <sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>。</p>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>菜鸟教程 -- 学的不仅是技术，更是梦想！！！ <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://jkshhh.GitHub.io/post/hello-gridea/</id>
