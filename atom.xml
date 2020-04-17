@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jkshhh.GitHub.io</id>
     <title>Floret&amp;TINYKITTEN</title>
-    <updated>2020-04-17T10:30:02.608Z</updated>
+    <updated>2020-04-17T10:39:33.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jkshhh.GitHub.io"/>
     <link rel="self" href="https://jkshhh.GitHub.io/atom.xml"/>
@@ -16,7 +16,7 @@
         <link href="https://jkshhh.GitHub.io/post/gao-shu/">
         </link>
         <updated>2020-04-14T10:32:52.000Z</updated>
-        <content type="html"><![CDATA[<p><strong>高数🌌</strong>：：：：<br>
+        <content type="html"><![CDATA[<p><strong>高数🌌</strong>：<br>
 <s>各位同学，根据学校本科教学安排，高等数学 II 课程将在第十一周进行线上期中考试。</s></p>
 <p><strong>考试时间：5月10日上午9:00-10:00</strong><br>
 <strong>考试范围：第八章 向量代数与空间解析几何；第九章 多元函数微分学及其应用；第十章 重积分</strong><br>
@@ -27,6 +27,8 @@
 <p><strong>电路分析</strong><br>
 未知</p>
 <p><strong>程序设计</strong><br>
+未知<br>
+<strong>英语</strong><br>
 未知</p>
 ]]></content>
     </entry>
