@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jkshhh.GitHub.io</id>
     <title>Floret&amp;TINYKITTEN</title>
-    <updated>2020-04-15T06:24:23.147Z</updated>
+    <updated>2020-04-17T10:27:04.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jkshhh.GitHub.io"/>
     <link rel="self" href="https://jkshhh.GitHub.io/atom.xml"/>
@@ -11,16 +11,23 @@
     <icon>https://jkshhh.GitHub.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Floret&amp;TINYKITTEN</rights>
     <entry>
-        <title type="html"><![CDATA[高数]]></title>
+        <title type="html"><![CDATA[ 各科期中备战！]]></title>
         <id>https://jkshhh.GitHub.io/post/gao-shu/</id>
         <link href="https://jkshhh.GitHub.io/post/gao-shu/">
         </link>
         <updated>2020-04-14T10:32:52.000Z</updated>
-        <content type="html"><![CDATA[<p><s>各位同学，根据学校本科教学安排，高等数学 II 课程将在第十一周进行线上期中考试。</s></p>
-<p>考试时间：5月10日上午9:00-10:00<br>
-考试范围：第八章 向量代数与空间解析几何；第九章 多元函数微分学及其应用；第十章 重积分<br>
-考试组织：由任课教师在云班课中以作业方式于开考时间发放试题，并于考试截止时间结束考试。学生书面答题，在考试时间内拍照上传。</p>
-<p>注：本次线上期中考试占总成绩比例10%。</p>
+        <content type="html"><![CDATA[<p><strong>高数🌌</strong>：：：：<br>
+<s>各位同学，根据学校本科教学安排，高等数学 II 课程将在第十一周进行线上期中考试。</s></p>
+<p><strong>考试时间：5月10日上午9:00-10:00</strong><br>
+<strong>考试范围：第八章 向量代数与空间解析几何；第九章 多元函数微分学及其应用；第十章 重积分</strong><br>
+考试组织：由任课教师在云班课中以作业方式于开考时间发放试题，并于考试截止时间结束考试。学生书面答题，在考试时间内拍照上传。<br>
+注：<strong>本次线上期中考试占总成绩比例10%。</strong></p>
+<p><strong>物理🎡</strong>：<br>
+<strong>4月25日</strong>大物BI的期中考试定于第9周周六上午10：00~11：10，**考试内容为第3～6，8章内容。**请各位协调好时间，认真复习学习过的内容，祝大家取得好成绩！</p>
+<p><strong>电路分析</strong><br>
+未知</p>
+<p><strong>程序设计</strong><br>
+未知</p>
 ]]></content>
     </entry>
     <entry>
