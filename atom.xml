@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jkshhh.GitHub.io</id>
     <title>Floret&amp;TINYKITTEN</title>
-    <updated>2020-04-17T10:41:42.931Z</updated>
+    <updated>2020-04-18T11:37:06.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jkshhh.GitHub.io"/>
     <link rel="self" href="https://jkshhh.GitHub.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://jkshhh.GitHub.io/images/avatar.png</logo>
     <icon>https://jkshhh.GitHub.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Floret&amp;TINYKITTEN</rights>
+    <entry>
+        <title type="html"><![CDATA[C++实例]]></title>
+        <id>https://jkshhh.GitHub.io/post/cshi-li/</id>
+        <link href="https://jkshhh.GitHub.io/post/cshi-li/">
+        </link>
+        <updated>2020-04-18T11:31:17.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://jkshhh.GitHub.io/post-images/1587209809620.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ 各科期中备战！]]></title>
         <id>https://jkshhh.GitHub.io/post/gao-shu/</id>
