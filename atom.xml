@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jkshhh.GitHub.io</id>
     <title>Floret&amp;TINYKITTEN</title>
-    <updated>2020-04-18T11:39:37.989Z</updated>
+    <updated>2020-05-11T06:30:28.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jkshhh.GitHub.io"/>
     <link rel="self" href="https://jkshhh.GitHub.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://jkshhh.GitHub.io/images/avatar.png</logo>
     <icon>https://jkshhh.GitHub.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Floret&amp;TINYKITTEN</rights>
+    <entry>
+        <title type="html"><![CDATA[如何干净的删除as中的module]]></title>
+        <id>https://jkshhh.GitHub.io/post/ru-he-gan-jing-de-shan-chu-as-zhong-de-module/</id>
+        <link href="https://jkshhh.GitHub.io/post/ru-he-gan-jing-de-shan-chu-as-zhong-de-module/">
+        </link>
+        <updated>2020-05-11T06:26:57.000Z</updated>
+        <content type="html"><![CDATA[<p>一、在setting.gradle中删除要删除的module<br>
+二、在File-Project Structrut中把module删除<br>
+三、右键project中的module有delete选项即可删除</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[C++实例]]></title>
         <id>https://jkshhh.GitHub.io/post/cshi-li/</id>
